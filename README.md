@@ -1,2 +1,2 @@
 # HomePage
-Yunhe Wang's HomePage
+Dr. Minghong Qiu's HomePage
